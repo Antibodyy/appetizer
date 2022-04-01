@@ -1,1 +1,2 @@
 This branch is pretty flexible!
+Trying to create a merge conflict XD. Now editing from master branch
